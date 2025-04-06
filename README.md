@@ -35,13 +35,13 @@ This project implements a **Custom Named Entity Recognition (NER)** system and a
 
 ## Usage
 
-- Prepare a labeled dataset in the .spacy format for training the NER model.
+- Prepare a labelled dataset in the .spacy format for training the NER model
 
-- Train the NER Model by running the following command:
+- Train the NER Model on labelled dataset
 
-- Redact Sensitive Information from text using the trained model:
+- Redact Sensitive Information from text using the trained model
 
-- Optionally, Generate Synthetic Data for training or testing using the faker library:
+- Optionally, Generate Synthetic Data for training or testing using the faker library
 
 
 
